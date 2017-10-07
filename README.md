@@ -10,7 +10,7 @@
 usage:
 
 ```
- titleSegmentControl = GUTabControl(frame: CGRect(x: 0, y: 0, width: 140, height: 44));
+        titleSegmentControl = GUTabControl(frame: CGRect(x: 0, y: 0, width: 140, height: 44));
         titleSegmentControl?.selectedColor = UIColor.fromHex(rgbValue: 0x00C2DE)
         titleSegmentControl?.indicatorColor = UIColor.fromHex(rgbValue: 0x00C2DE)
         titleSegmentControl?.titles = ["发现","对话"]
