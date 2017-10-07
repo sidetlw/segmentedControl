@@ -7,7 +7,7 @@
 
 #2.上面的字体颜色随着滑动渐变
 
-usage:
+usage (Swift):
 
 ```
         titleSegmentControl = GUTabControl(frame: CGRect(x: 0, y: 0, width: 140, height: 44));
