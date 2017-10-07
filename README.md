@@ -1,5 +1,6 @@
 # segmentedControl
 一个自定义的segmented Control
+
 #features :
 
 #1.下方蓝色指示条随页面的滑动而移动
